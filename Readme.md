@@ -28,7 +28,7 @@ make in the folder (because of `mounting` the folder with this command `-v "$(pw
 7. You can skip build step and instead you can run docker this way: `docker run -it 
 -v "$(pwd)":/sandbox kokadva/assignment-2-tester` (This will be available in the distant future)
 
-### Authors:
+#### Assignment Authors:
 * Giorgi Kobiashvili g.kobiashvili@freeuni.edu.ge
 * Konstantine Dvalishvili k.dvalishvili@freeuni.edu.ge
 * Giorgi Basilaia g.basilaia@freeuni.edu.ge
